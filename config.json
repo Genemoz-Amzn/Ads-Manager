@@ -1,6 +1,6 @@
 {
-  "showInHouseAds": false,
-  "forceOwnPremium": false,
+  "showInHouseAds": true,
+  "forceOwnPremium": true,
   "inHouseAdPackageNames": [
     "",
     "",
