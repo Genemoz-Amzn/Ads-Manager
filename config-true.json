@@ -3,7 +3,7 @@
   "forceOwnPremium": false,
   "inHouseAdPackageNames": [
     "com.instagram.android",
-    "",
-    ""
+    "com.instagram.android",
+    "com.instagram.android"
   ]
 }
