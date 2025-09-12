@@ -1,6 +1,7 @@
 {
   "showInHouseAds": false,
   "forceOwnPremium": false,
+  "forceRatingDialog": false,
   "inHouseAdPackageNames": [
     "",
     "",
