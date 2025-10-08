@@ -6,5 +6,9 @@
     "com.instagram.android",
     "com.instagram.android",
     "com.instagram.android"
+  ],
+    "inHouseAdPackageApply": [
+    "com.genemoz.app1",
+    "com.genemoz.app2"
   ]
 }
