@@ -8,7 +8,7 @@
     "com.instagram.android"
   ],
     "inHouseAdPackageApply": [
-    "com.genemoz.app1",
-    "com.genemoz.app2"
+    "com.avastris.voicerecorder",
+    "com.avastris.voicerecorder.lite"
   ]
 }
