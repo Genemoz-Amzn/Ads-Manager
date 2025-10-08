@@ -1,7 +1,7 @@
 {
   "showInHouseAds": false,
   "forceOwnPremium": false,
-  "forceRatingDialog": true,
+  "forceRatingDialog": false,
   "inHouseAdPackageNames": [
     "com.instagram.android",
     "com.instagram.android",
