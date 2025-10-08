@@ -9,6 +9,7 @@
   ],
     "inHouseAdPackageApply": [
     "com.avastris.voicerecorder",
-    "com.avastris.voicerecorder.lite"
+    "com.avastris.voicerecorder.lite",
+       "com.avastris.voicerecorder.pro"
   ]
 }
