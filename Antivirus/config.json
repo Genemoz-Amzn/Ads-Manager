@@ -1,5 +1,5 @@
 {
-  "showInHouseAds": false,
+  "showInHouseAds": true,
   "forceOwnPremium": false,
   "forceRatingDialog": true,
   "inHouseAdPackageNames": [
