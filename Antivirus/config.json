@@ -1,10 +1,10 @@
 {
-  "showInHouseAds": false,
+  "showInHouseAds": true,
   "forceOwnPremium": false,
   "forceRatingDialog": true,
   "inHouseAdPackageNames": [
     "com.avastris.batterysaver",
-    "",
+    "com.avastris.gamebooster",
     ""
   ]
 }
