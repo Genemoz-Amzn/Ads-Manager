@@ -1,7 +1,7 @@
 {
   "showInHouseAds": true,
   "forceOwnPremium": false,
-  "forceRatingDialog": true,
+  "forceRatingDialog": false,
   "inHouseAdPackageNames": [
     "com.avastris.batterysaver",
     "com.avastris.gamebooster",
